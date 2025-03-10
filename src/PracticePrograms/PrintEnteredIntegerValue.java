@@ -1,4 +1,4 @@
-package ex_01_java_basic;
+package PracticePrograms;
 
 
 import java.util.Scanner;
