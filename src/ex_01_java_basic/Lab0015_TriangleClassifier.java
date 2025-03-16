@@ -1,6 +1,6 @@
 package ex_01_java_basic;
 
-import java.sql.SQLOutput;
+
 import java.util.Scanner;
 
 public class Lab0015_TriangleClassifier {
@@ -10,6 +10,8 @@ public class Lab0015_TriangleClassifier {
 
         System.out.println("Enter Side 1=");
         int side1 = scanner.nextInt();
+
+
 
         System.out.println(" Enter Side 2=");
         int side2=scanner.nextInt();
