@@ -11,8 +11,8 @@ public class Lab0016_FibonacciSeries {
         Scanner sc= new Scanner(System.in);
         System.out.println("Enter any number=");
         int n=sc.nextInt();
-        System.out.print(n1+","+n2+",");
-        for(int i=3;i<=n;i++)
+        System.out.print(n1+","+n2);
+        for(int i=1;i<=n;i++)
         {
 fab=n1+n2;
             System.out.print(","+fab);
